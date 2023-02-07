@@ -49,3 +49,6 @@
 
 <img src="pedro_vaz_e_alexandre_magno.png">
 
+## Julia Ferreira
+
+<img src="julia_ferreira.png">
