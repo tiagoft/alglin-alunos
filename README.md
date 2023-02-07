@@ -1,6 +1,8 @@
 # alglin
 Álgebra Linear e Teoria da Informação - Material Didático
 
+[CLIQUE AQUI PARA A GALERIA DA ATIVIDADE LUA DA LUA](lua_da_lua_galeria/galeria.md)
+
 # Informações
 
 * Tiago Tavares - tiagoft1@insper.edu.br, sala TI-25, 7o. andar do P1
