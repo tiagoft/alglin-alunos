@@ -29,7 +29,7 @@
 
 ## João Lucas
 
-<img src="joao_lucas.png">
+<img src="joao_lucas.jpg">
 
 ## Julia Karine Peres
 
