@@ -8,6 +8,15 @@
 * Tiago Tavares - tiagoft1@insper.edu.br, sala TI-25, 7o. andar do P1
 * Seg 9h45, Ter 15h45, Qui 15h45
 
+# Grupos para APS parte 1
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
