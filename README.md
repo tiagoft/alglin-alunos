@@ -15,7 +15,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-| [Space Birbs]([http://github/repo](https://github.com/Juliakp1/spaceBirbs)) | Julia Karine Peres | juliakp710@gmail.com
+| [Space Birbs](https://github.com/Juliakp1/spaceBirbs) | Julia Karine Peres | juliakp710@gmail.com
 
 
 # Dinâmica das aulas
