@@ -21,7 +21,7 @@
 | [Crocosphere](https://github.com/P-ASilva/crocosphere) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [Interstellar](https://github.com/WeeeverAlex/Interstellar) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
 | [InSpace-ToshiBird](https://github.com/Maraba23/InSpace-ToshiBird) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
-| [StarFlow] (https://github.com/eriksoaress/StarFlow) | Fernando Vieira dos Santos e Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
+| [StarFlow](https://github.com/eriksoaress/StarFlow) | Fernando Vieira dos Santos e Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
 | [Smiling Foxes](https://github.com/alfredjynx/smiling-foxes_hole-lotta-worms.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
 | [Ao infinito e além](https://github.com/Isabelleatt/ao_infinito_e_alem) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
 | [Space Golf](https://github.com/GustavoAntony/SpaceGolf) | Matheus Aguiar, Gustavo Antony| matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
