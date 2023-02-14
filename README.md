@@ -18,6 +18,7 @@
 | [Space Birbs](https://github.com/Juliakp1/spaceBirbs) | Julia Karine Peres | juliakp710@gmail.com
 | [Crocosphere](https://github.com/P-ASilva/crocosphere) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [Interstellar](https://github.com/WeeeverAlex/Interstellar) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [InSpace-ToshiBird](https://github.com/Maraba23/InSpace-ToshiBird) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 
 
