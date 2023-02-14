@@ -24,6 +24,7 @@
 | [Ao infinito e além](https://github.com/Isabelleatt/ao_infinito_e_alem) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
 | [Space Golf](https://github.com/GustavoAntony/SpaceGolf) | Matheus Aguiar, Gustavo Antony| matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 | [Astrobirds](https://github.com/juliapaiva1/Astrobirds) | Júlia Paiva, Alexandre Magno | juliafp2@al.insper.edu.br, alemagno03@gmail.com
+| [Jelado Wars](https://github.com/Eduardosmb/Jelado-Warrs.git) | Eduardo Barros, Enzo quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 
 
 
