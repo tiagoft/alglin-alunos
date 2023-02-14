@@ -20,6 +20,7 @@
 
 
 
+
 # Dinâmica das aulas
 
 * Notebooks na aula
