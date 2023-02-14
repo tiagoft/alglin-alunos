@@ -16,6 +16,11 @@
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
 | [Galaxy Elite](https://github.com/alessitomas/galaxy-elite) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
+| [Space Birbs](https://github.com/Juliakp1/spaceBirbs) | Julia Karine Peres | juliakp710@gmail.com  
+| [2023: a Bird's Odyssey](https://github.com/EduardoMVAz/2023_a_birds_odyssey) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
+| [Crocosphere](https://github.com/P-ASilva/crocosphere) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [Interstellar](https://github.com/WeeeverAlex/Interstellar) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+
 
 
 # Dinâmica das aulas
