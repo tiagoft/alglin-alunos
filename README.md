@@ -15,6 +15,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
+| [Galaxy Elite](https://github.com/alessitomas/galaxy-elite) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
 
 
 # Dinâmica das aulas
