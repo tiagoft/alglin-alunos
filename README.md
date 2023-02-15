@@ -15,6 +15,19 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
+| [Galaxy Elite](https://github.com/alessitomas/galaxy-elite) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
+| [Space Birbs](https://github.com/Juliakp1/spaceBirbs) | Julia Karine Peres | juliakp710@gmail.com  
+| [2023: a Bird's Odyssey](https://github.com/EduardoMVAz/2023_a_birds_odyssey) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
+| [Crocosphere](https://github.com/P-ASilva/crocosphere) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [Interstellar](https://github.com/WeeeverAlex/Interstellar) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [InSpace-ToshiBird](https://github.com/Maraba23/InSpace-ToshiBird) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+| [StarFlow](https://github.com/eriksoaress/StarFlow) | Fernando Vieira dos Santos e Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
+| [Smiling Foxes](https://github.com/alfredjynx/smiling-foxes_hole-lotta-worms.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [Ao infinito e além](https://github.com/Isabelleatt/ao_infinito_e_alem) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
+| [Space Golf](https://github.com/GustavoAntony/SpaceGolf) | Matheus Aguiar, Gustavo Antony| matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [Astrobirds](https://github.com/juliapaiva1/Astrobirds) | Júlia Paiva, Alexandre Magno | juliafp2@al.insper.edu.br, alemagno03@gmail.com
+| [Jelado Wars](https://github.com/Eduardosmb/Jelado-Warrs.git) | Eduardo Barros, Enzo quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
+| [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 
 
 # Dinâmica das aulas
