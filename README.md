@@ -30,6 +30,14 @@
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
 
+# Grupos para APS parte 2
+
+*Insira seu grupo usando um pull request!*
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [CryptoLibrary](https://github.com/Eduardosmb/CryptoLibrary.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 
 # Dinâmica das aulas
 
