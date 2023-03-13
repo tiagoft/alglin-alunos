@@ -30,6 +30,9 @@
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
 
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Dinâmica das aulas
 
