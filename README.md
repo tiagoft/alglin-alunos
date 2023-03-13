@@ -31,6 +31,7 @@
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
 
 
+[leonardos15@al.insper.edu.br](https://github.com/leoscarlato/EnigmaCriptography) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
 # Dinâmica das aulas
 
 * Notebooks na aula
