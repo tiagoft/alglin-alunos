@@ -30,6 +30,13 @@
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
 
+# Grupos para APS parte 2
+
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Enigma](https://github.com/alemagno10/Enigma) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br |
+
 
 # Dinâmica das aulas
 
