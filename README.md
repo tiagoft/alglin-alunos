@@ -23,6 +23,9 @@
 | [InSpace-ToshiBird](https://github.com/Maraba23/InSpace-ToshiBird) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [AlphaEncrypter](https://github.com/thomaschiari/Algebra-Linear-Enigma) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 # Dinâmica das aulas
 
