@@ -31,6 +31,28 @@
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
 
 
+
+# Grupos para APS parte 2
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Encriptography](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
+| [Enigma Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git)   [Base](https://github.com/alfredjynx/Enigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+
+
+
+
+# Grupos para APS parte 3
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Gira Gira Camera Man](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
+| [Camera Sigma](https://github.com/alfredjynx/Camera-Matrix.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+
 # Dinâmica das aulas
 
 * Notebooks na aula
