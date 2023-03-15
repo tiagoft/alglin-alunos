@@ -39,7 +39,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Encriptography](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-| [Enigma Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git)   [Base](https://github.com/alfredjynx/Enigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [Enigma-Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git)   [API](https://github.com/marchettomarcelo/EnigmaSigmaREST) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
 
 
 
