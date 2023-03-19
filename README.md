@@ -38,6 +38,18 @@
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
 | [Enigmalille](https://github.com/liviatanaka/criptografia_Enigma) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
+| [The Puzzle](https://github.com/st4pzz/APS2_ALGLIN e https://github.com/st4pzz/package_enigma) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [Proj Enigma](https://github.com/GustavoAntony/Proj_enigma.git) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [Enigma Encrypter](https://github.com/EduardoMVAz/Enigma_Encrypter) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
+
+# Grupos para APS parte 3
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [fidgetspinner](https://github.com/C0D8/fidgetspinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 
 # Dinâmica das aulas
 
