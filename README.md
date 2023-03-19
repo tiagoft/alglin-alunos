@@ -44,6 +44,8 @@
 | [Proj Enigma](https://github.com/GustavoAntony/Proj_enigma.git) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 | [Enigma Encrypter](https://github.com/EduardoMVAz/Enigma_Encrypter) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
 [leonardos15@al.insper.edu.br](https://github.com/leoscarlato/EnigmaCriptography) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
+| [Criptografiaferik ](https://github.com/eriksoaress/Criptografia) | Fernando Vieira dos Santos e Erik Leonardo Soares de Oliveira | 
+fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
 
 # Grupos para APS parte 3
 
@@ -61,8 +63,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-| [Criptografiaferik ](https://github.com/eriksoaress/Criptografia) | Fernando Vieira dos Santos e Erik Leonardo Soares de Oliveira | 
-fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
+
 
 
 # Dinâmica das aulas
