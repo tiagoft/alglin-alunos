@@ -43,14 +43,14 @@
 | [The Puzzle](https://github.com/st4pzz/APS2_ALGLIN) https://github.com/st4pzz/package_enigma) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
 | [Proj Enigma](https://github.com/GustavoAntony/Proj_enigma.git) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 | [Enigma Encrypter](https://github.com/EduardoMVAz/Enigma_Encrypter) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
-| [leonardos15@al.insper.edu.br](https://github.com/leoscarlato/EnigmaCriptography) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
-| [Criptografiaferik ](https://github.com/eriksoaress/Criptografia) | Fernando Vieira dos Santos e Erik Leonardo Soares de Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br
+[leonardos15@al.insper.edu.br](https://github.com/leoscarlato/EnigmaCriptography) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
+| [Criptografiaferik ](https://github.com/eriksoaress/Criptografia) | Fernando Vieira dos Santos e Erik Leonardo Soares de Oliveira | 
+fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br
 | [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [AlphaEncrypter](https://github.com/thomaschiari/Algebra-Linear-Enigma) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 | [Enygma](https://github.com/LuccaHiratsuca/Enigma) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com 
 | [Enigma Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git) [Base](https://github.com/alfredjynx/Enigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
-| [oneHotCipher](https://github.com/Juliakp1/oneHotCipher) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
-| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [oneHotCipher] | (https://github.com/Juliakp1/oneHotCipher) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
 
 # Grupos para APS parte 3
 
@@ -60,10 +60,18 @@
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
 | [fidgetspinner](https://github.com/C0D8/fidgetspinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [Turn](https://github.com/st4pzz/APS3_ALGLIN) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
 
 
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
+| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Dinâmica das aulas
 
