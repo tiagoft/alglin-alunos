@@ -65,6 +65,9 @@ fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
 
 
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Dinâmica das aulas
 
