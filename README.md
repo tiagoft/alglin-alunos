@@ -50,7 +50,8 @@ fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br
 | [AlphaEncrypter](https://github.com/thomaschiari/Algebra-Linear-Enigma) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 | [Enygma](https://github.com/LuccaHiratsuca/Enigma) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com 
 | [Enigma Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git) [Base](https://github.com/alfredjynx/Enigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
-| [oneHotCipher] | (https://github.com/Juliakp1/oneHotCipher) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
+| [oneHotCipher](https://github.com/Juliakp1/oneHotCipher) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
+| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Grupos para APS parte 3
 
@@ -72,7 +73,6 @@ fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br
 
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
-| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Dinâmica das aulas
 
