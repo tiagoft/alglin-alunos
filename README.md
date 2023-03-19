@@ -45,7 +45,12 @@
 | [Enigma Encrypter](https://github.com/EduardoMVAz/Enigma_Encrypter) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
 [leonardos15@al.insper.edu.br](https://github.com/leoscarlato/EnigmaCriptography) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
 | [Criptografiaferik ](https://github.com/eriksoaress/Criptografia) | Fernando Vieira dos Santos e Erik Leonardo Soares de Oliveira | 
-fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br
+fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br
+| [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [AlphaEncrypter](https://github.com/thomaschiari/Algebra-Linear-Enigma) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+| [Enygma](https://github.com/LuccaHiratsuca/Enigma) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com 
+| [Enigma Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git) [Base](https://github.com/alfredjynx/Enigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [oneHotCipher] | (https://github.com/Juliakp1/oneHotCipher) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
 
 # Grupos para APS parte 3
 
