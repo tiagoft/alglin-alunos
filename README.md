@@ -37,7 +37,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
-| [Enigma Encrypter] (https://github.com/EduardoMVAz/Enigma_Encrypter) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
+| [Enigma Encrypter](https://github.com/EduardoMVAz/Enigma_Encrypter) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
 
 
 # Dinâmica das aulas
