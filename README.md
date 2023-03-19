@@ -37,6 +37,7 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [Enigma](https://github.com/alemagno10/Enigma) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br |
 | [CryptoLibrary](https://github.com/Eduardosmb/CryptoLibrary.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 | [Enigmalille](https://github.com/liviatanaka/criptografia_Enigma) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
 | [The Puzzle](https://github.com/st4pzz/APS2_ALGLIN) https://github.com/st4pzz/package_enigma) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
