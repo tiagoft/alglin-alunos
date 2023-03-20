@@ -21,6 +21,14 @@
 | --- | --- | --- |
 | [Cryptography Project](https://github.com/gustavolp1/cryptography-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
+# Grupos para APS parte 1
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Efeito de Rotação de Vídeo](https://github.com/P-ASilva/efeito_de_rotacao_video-.git) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+
 # Dinâmica das aulas
 
 * Notebooks na aula
