@@ -75,6 +75,10 @@
 | [DivertCam](https://github.com/PedroPertusi/Efeitos-em-Video-APS.git) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br |
 | [live-camera-effects](https://github.com/JoaoLucasMBC/live-camera-effects) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
 | [Efeito de Rotação de Vídeo](https://github.com/P-ASilva/efeito_de_rotacao_video-.git) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [Cameralille](https://github.com/Isabelleatt/camera_rotatoria) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
+| [Camera Effect](https://github.com/Eduardosmb/Camera-Effect.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
+| [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+| [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 # Dinâmica das aulas
 
