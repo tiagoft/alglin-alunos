@@ -30,6 +30,10 @@
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
 
+# APS 3
+
+| [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+
 
 # Dinâmica das aulas
 
