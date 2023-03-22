@@ -79,6 +79,7 @@
 | [Camera Effect](https://github.com/Eduardosmb/Camera-Effect.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 | [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+| [pycameraRotate](https://github.com/Juliakp1/pycameraRotate) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
 
 # Dinâmica das aulas
 
