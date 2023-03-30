@@ -29,6 +29,14 @@
 | [Jelado Wars](https://github.com/Eduardosmb/Jelado-Warrs.git) | Eduardo Barros, Enzo quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
+# Grupos para APS parte 3
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
+
 
 # Grupos para APS parte 2
 
@@ -60,11 +68,17 @@
 | --- | --- | --- |
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
 | [fidgetspinner](https://github.com/C0D8/fidgetspinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [Camera Sigma](https://github.com/alfredjynx/Camera-Matrix.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [MotionEye](https://github.com/eriksoaress/MotionEye) | Fernando Vieira dos Santos e Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br e eriklso@al.insper.edu.br |
+| [Turn](https://github.com/st4pzz/APS3_ALGLIN) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+[CameraAPS](https://github.com/leoscarlato/CameraAPS) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
 | [DivertCam](https://github.com/PedroPertusi/Efeitos-em-Video-APS.git) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br |
-
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
+| [live-camera-effects](https://github.com/JoaoLucasMBC/live-camera-effects) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br
+| [Efeito de Rotação de Vídeo](https://github.com/P-ASilva/efeito_de_rotacao_video-.git) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [Cameralille](https://github.com/Isabelleatt/camera_rotatoria) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br
+| [Camera Effect](https://github.com/Eduardosmb/Camera-Effect.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
+| [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+| [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 # Dinâmica das aulas
 
