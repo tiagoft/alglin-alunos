@@ -29,6 +29,15 @@
 | --- | --- | --- |
 | [Efeito de Rotação de Vídeo](https://github.com/P-ASilva/efeito_de_rotacao_video-.git) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
+# Grupos para APS parte 4
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Cube Rotato](https://github.com/gustavolp1/cube-rotato) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
