@@ -80,14 +80,6 @@
 | [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
-# Grupos para APS parte 1
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Efeito de Rotação de Vídeo](https://github.com/P-ASilva/efeito_de_rotacao_video-.git) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
-
 # Grupos para APS parte 4
 
 **Insira seu grupo usando um pull request!**
