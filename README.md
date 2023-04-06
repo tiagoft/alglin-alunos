@@ -80,20 +80,20 @@
 | [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
-
-
 # Grupos para APS parte 4
 
 **Insira seu grupo usando um pull request!**
 
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
+| [3dCubeProject](https://github.com/alanmath/3d_project) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [Counter-Strike 1.6](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
 | [Cubo Sigma](https://github.com/alfredjynx/Cubo-Sigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
 | [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
 | [Thecube](https://github.com/WeeeverAlex/thecube)) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
 | [Gira, cubo, gira](https://github.com/liviatanaka/cubo3D) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br |
 | [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
+
 
 
 # Dinâmica das aulas
