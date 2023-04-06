@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 # Instalar a biblioteca cv2 pode ser um pouco demorado. Não deixe para ultima hora!
 import cv2 as cv
 
