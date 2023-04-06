@@ -89,7 +89,7 @@
 | --- | --- | --- |
 | [3dCubeProject](https://github.com/alanmath/3d_project) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [Cubo Sigma](https://github.com/alfredjynx/Cubo-Sigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
-| [Thecube](https://github.com/WeeeverAlex/thecube)) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [Thecube](https://github.com/WeeeverAlex/thecube) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
 | [Gira, cubo, gira](https://github.com/liviatanaka/cubo3D) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br |
 | [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
 | [pycube rotation](https://github.com/JoaoLucasMBC/pycube-projection) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br |
@@ -97,6 +97,8 @@
 | [CuboRotator](https://github.com/eriksoaress/CuboRotator) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br  |
 | [2d-Cube-Projection](https://github.com/alessitomas/2D-cube-projection) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
 | [Cubo Giratório](https://github.com/juliapaiva1/cubo_giratorio) | Júlia Paiva | juliafp2@al.insper.edu.br
+| [3D Cube Pygame](https://github.com/PedroPertusi/3d-Cube-Pygame-APS)| Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br |
+
 
 # Dinâmica das aulas
 
