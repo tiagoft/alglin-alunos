@@ -29,13 +29,6 @@
 | [Jelado Wars](https://github.com/Eduardosmb/Jelado-Warrs.git) | Eduardo Barros, Enzo quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
-# Grupos para APS parte 3
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
 
 
 # Grupos para APS parte 2
@@ -99,6 +92,7 @@
 | [Cubo Giratório](https://github.com/juliapaiva1/cubo_giratorio) | Júlia Paiva | juliafp2@al.insper.edu.br
 | [AlphaCube](https://github.com/Maraba23/AlphaCube) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 | [3d Cube](https://github.com/PedroPertusi/3d-Cube-Pygame-APS) | Pedro Pertusi, Alexandre Magno | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
+| [Cube Rotato](https://github.com/gustavolp1/cube-rotato) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Dinâmica das aulas
 
