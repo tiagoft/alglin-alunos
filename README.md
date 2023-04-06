@@ -81,27 +81,6 @@
 | [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 
-# Grupos para APS parte 2
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Encriptography](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-| [Enigma-Sigma](https://github.com/marchettomarcelo/Enigma-Sigma.git)   [API](https://github.com/marchettomarcelo/EnigmaSigmaREST) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
-
-
-
-
-# Grupos para APS parte 3
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Gira Gira Camera Man](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-| [Camera Sigma](https://github.com/alfredjynx/Camera-Matrix.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
-
 
 # Grupos para APS parte 4
 
@@ -110,7 +89,12 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Counter-Strike 1.6](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
-| [Cubo Sigma](https://github.com/alfredjynx/Cubo-Sigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy & Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [Cubo Sigma](https://github.com/alfredjynx/Cubo-Sigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [Thecube](https://github.com/WeeeverAlex/thecube)) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [Gira, cubo, gira](https://github.com/liviatanaka/cubo3D) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br |
+| [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
+
 
 # Dinâmica das aulas
 
