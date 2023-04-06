@@ -95,6 +95,24 @@
 | [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
 
 
+# Grupos para APS parte 3
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [fidgetspinner] (https://github.com/C0D8/fidgetspinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+
+# Grupos para APS parte 4
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [3d-spinner] (https://github.com/C0D8/3d-spinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+
 
 # Dinâmica das aulas
 
