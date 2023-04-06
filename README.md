@@ -83,6 +83,15 @@
 
 | [oneHotCipher] | (https://github.com/Juliakp1/oneHotCipher) | Júlia Paiva, Júlia Karine Peres | juliafp2@al.insper.edu.br, juliakp710@gmail.com
 
+# Grupos para APS parte 4
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Cubo Giratório] | (https://github.com/juliapaiva1/cubo_giratorio) | Júlia Paiva | juliafp2@al.insper.edu.br
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
