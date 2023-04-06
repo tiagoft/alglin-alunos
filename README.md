@@ -96,6 +96,8 @@
 | [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
 | [pycube rotation](https://github.com/JoaoLucasMBC/pycube-projection) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br |
 | [3d-spinner] (https://github.com/C0D8/3d-spinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [CuboRotator](https://github.com/eriksoaress/CuboRotator) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br  |
+| [2d Cube Projection](https://github.com/alessitomas/2D-cube-projection) | | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
 
 
 # Dinâmica das aulas
