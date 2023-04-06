@@ -80,6 +80,7 @@
 | [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
+
 # Grupos para APS parte 4
 
 **Insira seu grupo usando um pull request!**
@@ -93,24 +94,7 @@
 | [Thecube](https://github.com/WeeeverAlex/thecube)) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
 | [Gira, cubo, gira](https://github.com/liviatanaka/cubo3D) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br |
 | [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
-
-
-# Grupos para APS parte 3
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
-| [fidgetspinner] (https://github.com/C0D8/fidgetspinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
-
-# Grupos para APS parte 4
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal 
+| [pycube rotation](https://github.com/JoaoLucasMBC/pycube-projection) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br |
 | [3d-spinner] (https://github.com/C0D8/3d-spinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 
 
