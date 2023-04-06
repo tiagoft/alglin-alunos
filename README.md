@@ -96,7 +96,7 @@
 | [3d-spinner](https://github.com/C0D8/3d-spinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 | [CuboRotator](https://github.com/eriksoaress/CuboRotator) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br  |
 | [2d-Cube-Projection](https://github.com/alessitomas/2D-cube-projection) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
-
+| [Cubo Giratório] | (https://github.com/juliapaiva1/cubo_giratorio) | Júlia Paiva | juliafp2@al.insper.edu.br
 
 # Dinâmica das aulas
 
