@@ -29,13 +29,6 @@
 | [Jelado Wars](https://github.com/Eduardosmb/Jelado-Warrs.git) | Eduardo Barros, Enzo quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 | [Space Ninjas With Attitude](https://github.com/FeMCDias/Space-Ninjas-With-Attitude) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 |[Cosmic Chaos](https://github.com/PedroPertusi/CosmicChaos-Pygame-Project) | Pedro Pertusi | pedrovmp@al.insper.edu.br |
-# Grupos para APS parte 3
-
-**Insira seu grupo usando um pull request!**
-
-| Título e repositório | Integrantes | E-mails |
-| --- | --- | --- |
-| [Asas não funcionam no espaço](http://github/repo) | fulano de tal, sicrano de tal | fulano@tal, sicrano@tal
 
 
 # Grupos para APS parte 2
@@ -79,6 +72,28 @@
 | [Camera Effect](https://github.com/Eduardosmb/Camera-Effect.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br
 | [Image Effects](https://github.com/esdrasgc/image_effects) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaCamera](https://github.com/Maraba23/AlphaCamera) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+
+
+# Grupos para APS parte 4
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [3dCubeProject](https://github.com/alanmath/3d_project) | Esdras G. Carvalho, Alan M. Barbosa | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+| [Cubo Sigma](https://github.com/alfredjynx/Cubo-Sigma.git) | Copyright (c) 2023 João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br
+| [Thecube](https://github.com/WeeeverAlex/thecube)) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [Gira, cubo, gira](https://github.com/liviatanaka/cubo3D) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviat1@al.insper.edu.br |
+| [Pygame 3d Rendering](https://github.com/Juliakp1/pygame3dRendering) | Julia Karine Peres | juliakp710@gmail.com
+| [pycube rotation](https://github.com/JoaoLucasMBC/pycube-projection) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br |
+| [3d-spinner](https://github.com/C0D8/3d-spinner) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [CuboRotator](https://github.com/eriksoaress/CuboRotator) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br  |
+| [2d-Cube-Projection](https://github.com/alessitomas/2D-cube-projection) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
+| [Cubo Giratório](https://github.com/juliapaiva1/cubo_giratorio) | Júlia Paiva | juliafp2@al.insper.edu.br
+| [AlphaCube](https://github.com/Maraba23/AlphaCube) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+| [3d Cube](https://github.com/PedroPertusi/3d-Cube-Pygame-APS) | Pedro Pertusi, Alexandre Magno | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
+| [Cube Rotato](https://github.com/gustavolp1/cube-rotato) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
+| [CUBO-3D]( https://github.com/Eduardosmb/Cubo-3D) | Eduardo Barros, Enzo Quental | enzoq@al.insper.edu.br, eduardosmb@al.insper.edu.br |
 
 # Dinâmica das aulas
 
