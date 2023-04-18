@@ -94,6 +94,7 @@
 | [3d Cube](https://github.com/PedroPertusi/3d-Cube-Pygame-APS) | Pedro Pertusi, Alexandre Magno | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
 | [Cube Rotato](https://github.com/gustavolp1/cube-rotato) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [CUBO-3D]( https://github.com/Eduardosmb/Cubo-3D) | Eduardo Barros, Enzo Quental | enzoq@al.insper.edu.br, eduardosmb@al.insper.edu.br |
+| [Hexahedron-Madness]( https://github.com/FeMCDias/Hexahedron-Madness ) | Felipe Maluli de Carvalho Dias, Lucca Hiratsuca Costa | femcdias@gmail.com, luccahiratsuca@gmail.com |
 
 # Dinâmica das aulas
 
