@@ -37,6 +37,9 @@
 # APS 4
 | [AlphaCube](https://github.com/Maraba23/AlphaCube) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
+# APS 5
+| [AlphaNetflixChallenge](https://github.com/thomaschiari/Alpha-Netflix-Challenge) | Marcelo Rabello Barranco, Thomas Chiari Ciocchetti de Souza | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+
 # Dinâmica das aulas
 
 * Notebooks na aula
