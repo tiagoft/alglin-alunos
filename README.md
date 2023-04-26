@@ -102,6 +102,16 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [Flixnet](https://github.com/GustavoAntony/Flixnet) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [Preditor de nota](https://github.com/juliapaiva1/Preditor-de-nota) | Júlia Paiva | juliafp2@al.insper.edu.br
+| [RecomendadorNetflix](https://github.com/Juliakp1/-moviesReccomend) | Julia Karine Peres, Isabelle Santos, Livia Tanaka | juliakp710@gmail.com, isabelles@al.insper.edu.br, liviat1@al.insper.edu.br |
+| [Netflix Sigma](https://github.com/alfredjynx/Netflix-Sigma) | João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br |
+| [Desafio-Netflix](https://github.com/Eduardosmb/Desafio-Netflix) | Eduardo Barros, Enzo Quental | edusmb@al.insper.edu.br, enzoq@al.insper.edu.br |
+| [Desafio-Netflix](https://github.com/fernandovs4/Desafio-Netflix) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br |
+| [NetflixChallenge](https://github.com/WeeeverAlex/Netlfix-Challenge) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [Netflix-Challange](https://github.com/alessitomas/Netflix-Challange) | Tomás Alessi, Leo Scarlato | tomasa@al.insper.edu.br, leonardos15@al.insper.edu.br
+| [Netflix Challenge](https://github.com/EduardoMVAz/Netflix_Challenge) | João Lucas Cadorniga, Eduardo Vaz | joaolmbc@al.insper.edu.br, eduardov1@al.insper.edu.br |
+| [Rating Foresight](https://github.com/alemagno10/Rating-Foresight) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
+| [Movie Rater Project](https://github.com/gustavolp1/movie-rater-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
 # Dinâmica das aulas
 
