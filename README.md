@@ -96,6 +96,14 @@
 | --- | --- | --- |
 | [Movie Rater Project](https://github.com/gustavolp1/movie-rater-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 
+# Grupos para APS parte 6
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Stroke Classifier Evaluation](https://github.com/P-ASilva/stroke-classifier-evaluation) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco, Julia Karine Peres | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com, juliakp710@gmail.com  
+
 # Dinâmica das aulas
 
 * Notebooks na aula
