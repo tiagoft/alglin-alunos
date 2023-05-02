@@ -114,6 +114,13 @@
 | [Movie Rater Project](https://github.com/gustavolp1/movie-rater-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [netflix_challenge](https://github.com/esdrasgc/netflix_challenge) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 
+# Grupos para APS parte 6
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+|[Classificador AVC](https://github.com/PedroPertusi/Classificador-AVC) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
 
 # Dinâmica das aulas
 
