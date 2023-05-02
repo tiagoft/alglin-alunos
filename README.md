@@ -114,6 +114,7 @@
 | [Movie Rater Project](https://github.com/gustavolp1/movie-rater-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [netflix_challenge](https://github.com/esdrasgc/netflix_challenge) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 
+| [Avctv](https://github.com/C0D8/avctv) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
 
 # Dinâmica das aulas
 
