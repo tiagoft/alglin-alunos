@@ -115,6 +115,9 @@
 | [netflix_challenge](https://github.com/esdrasgc/netflix_challenge) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 
 
+| [AVC-Prediction](https://github.com/Eduardosmb/AVC-prediction) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br |
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
