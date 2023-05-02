@@ -115,6 +115,15 @@
 | [netflix_challenge](https://github.com/esdrasgc/netflix_challenge) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 
 
+# Grupos para APS parte 6
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Stroke Classifier](https://github.com/JoaoLucasMBC/stroke-classifier) | Eduardo Vaz, João Lucas Cadorniga | eduardov1@al.insper.edu.br, joaolmbc@al.insper.edu.br |
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
