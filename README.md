@@ -115,6 +115,8 @@
 | [netflix_challenge](https://github.com/esdrasgc/netflix_challenge) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 
 
+| [classificador_AVC](https://github.com/alanmath/classificador_algebra) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+
 # Dinâmica das aulas
 
 * Notebooks na aula
