@@ -127,6 +127,8 @@
 # APS 6
 | [AVC_Class](https://github.com/eriksoaress/AVC_class) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br |
 
+| [classificador_AVC](https://github.com/alanmath/classificador_algebra) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+
 # Dinâmica das aulas
 
 * Notebooks na aula
