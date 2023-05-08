@@ -127,6 +127,9 @@
 # APS 6
 | [AVC_Class](https://github.com/eriksoaress/AVC_class) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br |
 
+| [AVC-Prediction](https://github.com/Eduardosmb/AVC-prediction) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br |
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
