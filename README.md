@@ -120,12 +120,18 @@
 | Título e repositório | Integrantes | E-mails |
 | --- | --- | --- |
 | [AVCData](https://github.com/st4pzz/APS_AVC) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
-
-
-
-
-# APS 6
+| [AVC-Sigma](https://github.com/alfredjynx/AVC-Sigma) | João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br |
 | [AVC_Class](https://github.com/eriksoaress/AVC_class) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br |
+| [AVC-Predictor](https://github.com/leoscarlato/AVC-Predictor) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
+| [Avctv](https://github.com/C0D8/avctv) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [Classificador de AVCs](https://github.com/juliapaiva1/classificador_avcs) | Júlia Paiva | juliafp2@al.insper.edu.br
+| [AVC-Prediction](https://github.com/Eduardosmb/AVC-prediction) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br |
+|[Classificador AVC](https://github.com/PedroPertusi/Classificador-AVC) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
+| [Classificador AVCs](https://github.com/Isabelleatt/classificador_AVCs) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviatanaka19@gmail.com |
+| [Stroke Classifier](https://github.com/JoaoLucasMBC/stroke-classifier) | Eduardo Vaz, João Lucas Cadorniga | eduardov1@al.insper.edu.br, joaolmbc@al.insper.edu.br |
+| [classificador_AVC](https://github.com/alanmath/classificador_algebra) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+| [AlphaAVC](https://github.com/thomaschiari/Classificador-Alfa) | Thomas Chiari, Marcelo Barranco | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
+
 
 # Dinâmica das aulas
 
