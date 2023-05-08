@@ -114,6 +114,15 @@
 | [Movie Rater Project](https://github.com/gustavolp1/movie-rater-project) | Pedro Antônio Silva, Gustavo Lindenberg Pacheco | pedro.a.silva.2022.1@gmail.com, pachecoglp02@gmail.com
 | [netflix_challenge](https://github.com/esdrasgc/netflix_challenge) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 
+# Grupos para APS parte 6
+
+**Insira seu grupo usando um pull request!**
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [AVCData](https://github.com/st4pzz/APS_AVC) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+
+
+
 
 # Dinâmica das aulas
 
