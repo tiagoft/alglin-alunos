@@ -122,6 +122,14 @@
 | --- | --- | --- |
 | [AVC-Sigma](https://github.com/alfredjynx/AVC-Sigma) | João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br |
 
+# Grupos para APS parte 7
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Forca-Sigma](https://github.com/alfredjynx/Forca-Sigma) | João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br |
+
 
 
 # Dinâmica das aulas
