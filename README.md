@@ -133,6 +133,15 @@
 | [AlphaAVC](https://github.com/thomaschiari/Classificador-Alfa) | Thomas Chiari, Marcelo Barranco | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 
+# Grupos para APS parte 6
+
+**Insira seu grupo usando um pull request!**
+
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Stroke Classifier](https://github.com/JoaoLucasMBC/stroke-classifier) | Eduardo Vaz, João Lucas Cadorniga | eduardov1@al.insper.edu.br, joaolmbc@al.insper.edu.br |
+
+
 # Dinâmica das aulas
 
 * Notebooks na aula
