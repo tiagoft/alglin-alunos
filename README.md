@@ -132,6 +132,13 @@
 | [classificador_AVC](https://github.com/alanmath/classificador_algebra) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaAVC](https://github.com/thomaschiari/Classificador-Alfa) | Thomas Chiari, Marcelo Barranco | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
+# Grupos para APS parte 7
+
+**Insira seu grupo usando um pull request!**
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
+| [Forca Algorithm](https://github.com/WeeeverAlex/JogodeForca) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+
 
 # Dinâmica das aulas
 
