@@ -133,6 +133,8 @@
 | [AlphaAVC](https://github.com/thomaschiari/Classificador-Alfa) | Thomas Chiari, Marcelo Barranco | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
 
+|[APS-Forca](https://github.com/leoscarlato/APS-Forca) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
+
 # Dinâmica das aulas
 
 * Notebooks na aula
