@@ -134,6 +134,8 @@
 
 # Grupos para APS parte 7
 
+| Título e repositório | Integrantes | E-mails |
+| --- | --- | --- |
 | [forca_player](https://github.com/esdrasgc/forca_player) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [Hangman Evaluation](https://github.com/Juliakp1/hangman-evaluation) | Julia Karine Peres | juliakp710@gmail.com |
 | [Forca Otimizada](https://github.com/juliapaiva1/ForcaOtimizada) | Júlia Paiva | juliafp2@al.insper.edu.br
