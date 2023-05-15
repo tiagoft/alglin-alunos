@@ -132,6 +132,20 @@
 | [classificador_AVC](https://github.com/alanmath/classificador_algebra) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
 | [AlphaAVC](https://github.com/thomaschiari/Classificador-Alfa) | Thomas Chiari, Marcelo Barranco | marcelorb5@al.insper.edu.br, thomasccs@al.insper.edu.br
 
+# Grupos para APS parte 7
+
+| [forca_player](https://github.com/esdrasgc/forca_player) | Alan Matheus Alves Barbosa, Esdras Gomes Carvalho | esdrasgc@al.insper.edu.br, alanm2@al.insper.edu.br
+| [Hangman Evaluation](https://github.com/Juliakp1/hangman-evaluation) | Julia Karine Peres | juliakp710@gmail.com |
+| [Forca Otimizada](https://github.com/juliapaiva1/ForcaOtimizada) | Júlia Paiva | juliafp2@al.insper.edu.br
+| [Avalia Jodo de Forca](https://github.com/liviatanaka/Avalia_JogoDeForca.git) | Isabelle Santos, Livia Tanaka | isabelles@al.insper.edu.br, liviatanaka19@gmail.com |
+| [Forca-Sigma](https://github.com/alfredjynx/Forca-Sigma) | João Alfredo Cardoso Lamy, Marcelo Vampré Ferreira Marchetto | joaoacl@al.insper.edu.br, marcelovfm@al.insper.edu.br |
+| [Forcria](https://github.com/GustavoAntony/Forcria) | Matheus Aguiar, Gustavo Antony | matheusaj@al.insper.edu.br, gustavoa9@al.insper.edu.br
+| [FindTheWord](https://github.com/eriksoaress/FindTheWord) | Fernando Vieira dos Santos, Erik Leonardo Soares Oliveira | fernandovs4@al.insper.edu.br, eriklso@al.insper.edu.br |
+| [Forca Algorithm](https://github.com/WeeeverAlex/JogodeForca) | Alexandre Wever, Sergio Ramella | alexandrew1@al.insper.edu.br, sergioerj@al.insper.edu.br
+| [The Hanged Man](https://github.com/EduardoMVAz/The_Hanged_Man) | Eduardo Vaz, João Lucas Cadorniga | eduardov1@al.insper.edu.br, joaolmbc@al.insper.edu.br |
+| [Jogador-de-Forca](https://github.com/PedroPertusi/Jogador-de-Forca-APS) | Alexandre Magno, Pedro Pertusi | alemagno03@gmail.com, pedrovmp@al.insper.edu.br
+| [APS-Forca](https://github.com/leoscarlato/APS-Forca) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
+| [The-last_Forca](https://github.com/Eduardosmb/The-last-Forca.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br |
 
 # Dinâmica das aulas
 
