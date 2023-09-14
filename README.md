@@ -149,6 +149,8 @@
 | [APS-Forca](https://github.com/leoscarlato/APS-Forca) | Leonardo Scarlato, Tomás Alessi | leonardos15@al.insper.edu.br, tomasa@al.insper.edu.br |
 | [The-last_Forca](https://github.com/Eduardosmb/The-last-Forca.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br |
 
+| [The-last_Forca](https://github.com/Eduardosmb/The-last-Forca.git) | Eduardo Barros, Enzo Quental | eduardosmb@al.insper.edu.br, enzoq@al.insper.edu.br |
+
 # Dinâmica das aulas
 
 * Notebooks na aula
